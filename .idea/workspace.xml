@@ -3,20 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b4a9121f-0d0b-41f1-a5a3-b172f74e14ce" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/README" beforeDir="false" afterPath="$PROJECT_DIR$/migrations/README" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/alembic.ini" beforeDir="false" afterPath="$PROJECT_DIR$/migrations/alembic.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/env.py" beforeDir="false" afterPath="$PROJECT_DIR$/migrations/env.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/script.py.mako" beforeDir="false" afterPath="$PROJECT_DIR$/migrations/script.py.mako" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/versions/11a8bd7293fa_users_table.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/versions/2b017edaa91f_add_language_to_posts.py" beforeDir="false" afterPath="$PROJECT_DIR$/migrations/versions/2b017edaa91f_add_language_to_posts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/versions/37f06a334dbf_new_fields_in_user_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/migrations/versions/37f06a334dbf_new_fields_in_user_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/versions/3e06008fecb2_followers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/versions/555dd1718b4e_new_fields_in_user_model.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/versions/5dfb3efb673b_add_language_to_posts.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/versions/780739b227a7_posts_table.py" beforeDir="false" afterPath="$PROJECT_DIR$/migrations/versions/780739b227a7_posts_table.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/versions/ae346256b650_followers.py" beforeDir="false" afterPath="$PROJECT_DIR$/migrations/versions/ae346256b650_followers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/versions/bb4f4732f34d_posts_table.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/versions/e517276bb1c2_users_table.py" beforeDir="false" afterPath="$PROJECT_DIR$/migrations/versions/e517276bb1c2_users_table.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -66,7 +52,7 @@
         <entry file="file://$PROJECT_DIR$/.flaskenv">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -186,12 +172,6 @@
               <item name="FlaskMicroBlog" type="462c0819:PsiDirectoryNode" />
               <item name="migrations" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="FlaskMicroBlog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FlaskMicroBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="migrations" type="462c0819:PsiDirectoryNode" />
-              <item name="versions" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -211,11 +191,12 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Igor\Desktop\FlaskMicroBlog\migrations\versions" />
+      <recent name="C:\Users\Igor\Desktop\FlaskMicroBlog" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Igor\Desktop\FlaskMicroBlog\app\templates" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Igor\Desktop\FlaskMicroBlog" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -337,7 +318,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32897604" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -349,7 +330,7 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1945629" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" visible="true" weight="0.29850745" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -659,21 +640,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/migrations/README">
+    <entry file="file://$PROJECT_DIR$/migrations_old/README">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="38" selection-start-column="38" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/migrations/alembic.ini">
+    <entry file="file://$PROJECT_DIR$/migrations_old/alembic.ini">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/migrations/env.py">
+    <entry file="file://$PROJECT_DIR$/migrations_old/env.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="517">
           <caret line="81" column="27" selection-start-line="81" selection-start-column="27" selection-end-line="81" selection-end-column="27" />
@@ -683,7 +664,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/migrations/script.py.mako">
+    <entry file="file://$PROJECT_DIR$/migrations_old/script.py.mako">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
@@ -693,7 +674,7 @@
     <entry file="file://$PROJECT_DIR$/.flaskenv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
